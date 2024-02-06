@@ -10,7 +10,7 @@ I sourced my data directly from LinkedIn. This was done on Saturday, July 1st, 2
 
 I created a line chart for various engagements to show the month-on-month trend for reactions, comments, and reposts. I also showed the trend for the number of posts made every month.
 
-![](https://github.com/dannyskillzz/TonyElumelu/blob/main/Engagements.jpg)
+
 
 ## Top 5 Posts
 
@@ -18,13 +18,13 @@ I noticed some similarities in the top 5 posts based on engagements. The top pos
 
 A birthday post of Oge, TOE’s first daughter, came in second place among the top 5; and another birthday post (video) of TOE himself came in 4th place. Coming in 5th place among the top 5 was a video post on an interview with BBC News Africa.
 
-![](https://github.com/dannyskillzz/TonyElumelu/blob/main/Top%205%20Posts.jpg)
+
 
 ## Time Series Analysis
 
 I also took out the time to make good use of the timestamp data I extracted to analyze the number of posts made and the total engagements gained with respect to days of the week and specific timeframes of posting. I achieved this using the SWITCH function (DAX) on Power BI to return the days of the week and time groups (using a 6-hour timeframe) on separate columns respectively.
 
-![](https://github.com/dannyskillzz/TonyElumelu/blob/main/Time%20Series.JPG)
+
 
 ## Remarks
 
